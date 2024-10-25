@@ -91,7 +91,7 @@ function Resume() {
                                     <div className="bg-gray-100 dark:bg-gray-800 shadow-sm p-4 rounded-md mb-4">
                                           <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white uppercase">About Me</h2>
                                           <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-                                                I am a skilled electrician with a focus on electrical wiring, installation, maintenance, and troubleshooting. I excel at working efficiently in a team environment and am passionate about delivering high-quality solutions.
+                                                Motivated and detail-oriented electrician with an ITI certification, seeking an entry-level position to apply my foundational knowledge of electrical systems, wiring, and maintenance. I am eager to contribute to a team, delivering reliable and safe electrical solutions, while growing professionally in the field.
                                           </p>
                                     </div>
 
